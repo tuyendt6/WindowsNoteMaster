@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ics_blue">#33b5e5</color>
+    <color name="white">#fff</color>
+    <color name="light_grey">#ddd</color>
+    <color name="back">#f8f8b6</color>
+
+    <color name="yellow_baner">#ffeb3b</color>
+    <color name="yellow_bg">#fff59d</color>
+
+
+    <color name="indigo_baner">#3f51b5</color>
+    <color name="indigo_bg">#9fa8da</color>
+
+
+    <color name="ping_baner">#e91e63</color>
+    <color name="ping_bg">#f48fb1</color>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Windows Stickies</string>
+    <color name="back">#f8f8b6</color>
+    <color name="white">#99FFFFFF</color>
+    <color name="black">#55000000</color>
+    <string name="update">Update v20.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_notes_alert">Delete %s note(s)?</string>
+</resources>

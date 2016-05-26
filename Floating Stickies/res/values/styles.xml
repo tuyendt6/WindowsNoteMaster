@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="actionModeStyle">@style/LywActionMode</item>
+    </style>
+
+    <style name="LywActionMode" parent="Base.Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimary</item>
+        <item name="backgroundSplit">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="FloatingActionButton" parent="android:Widget.ImageButton">
+        <item name="floatingActionButtonSize">normal</item>
+    </style>
+
+    <style name="FloatingActionButton.Mini" parent="FloatingActionButton">
+        <item name="floatingActionButtonSize">mini</item>
+    </style>
+
+    <style name="FloatingActionButton.Light" parent="FloatingActionButton">
+        <item name="floatingActionButtonColor">@android:color/primary_text_dark</item>
+    </style>
+
+    <style name="FloatingActionButton.Light.Mini" parent="FloatingActionButton.Mini">
+        <item name="floatingActionButtonColor">@android:color/primary_text_dark</item>
+    </style>
+
+    <style name="FloatingActionButton.Dark" parent="FloatingActionButton">
+        <item name="floatingActionButtonColor">@android:color/tab_indicator_text</item>
+    </style>
+
+    <style name="FloatingActionButton.Dark.Mini" parent="FloatingActionButton.Mini">
+        <item name="floatingActionButtonColor">@android:color/tab_indicator_text</item>
+    </style>
+
+
+</resources>

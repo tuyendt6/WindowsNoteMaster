@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Floating Stickies/Floating Stickies.iml" filepath="$PROJECT_DIR$/Floating Stickies/Floating Stickies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StandOutSDK/StandOutSDK.iml" filepath="$PROJECT_DIR$/StandOutSDK/StandOutSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowsNoteMaster.iml" filepath="$PROJECT_DIR$/WindowsNoteMaster.iml" />
+    </modules>
+  </component>
+</project>
